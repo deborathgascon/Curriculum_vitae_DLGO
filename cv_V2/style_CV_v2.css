@@ -1,0 +1,48 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    background-color: rgb(226, 225, 183);
+    color: rgb(116, 116, 116);
+    height: 50x;
+    margin-bottom: 5px;
+    text-align: center;
+}
+#subt {
+    color: rgb(201, 200, 162);
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top: 0;
+    text-align: center;
+}
+a {
+   cursor: pointer;
+   color: rgb(201, 200, 162);
+}
+a:hover {
+    color: yellow;
+}
+.contenedor {
+    display: flex;
+}
+.contenedor-info {
+    background-color: rgb(136, 135, 135);
+    color: rgb(255, 253, 253);
+    padding: 10px;
+    padding-right: 15px;
+    text-align: right;
+}
+.sub {
+    font-size: 18px;
+    font-weight: bolder;
+}
+li {
+    list-style: none;
+}
+.contenedor-expe {
+    padding: 20px;
+    width: 600px;
+}
+.trab {
+    font-style: italic;
+}
